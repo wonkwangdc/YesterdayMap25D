@@ -1,0 +1,17 @@
+{
+    "name": "YesterdayMap.BranchOne.Sandbox",
+    "rootNamespace": "YesterdayMap.BranchOne.Sandbox",
+    "references": [
+        "YesterdayMap.BranchOne",
+        "Unity.ugui"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

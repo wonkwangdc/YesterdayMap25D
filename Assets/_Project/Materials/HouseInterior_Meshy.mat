@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HouseInterior_Meshy
+  m_Shader: {fileID: 4800000, guid: 4473787bb72100e4980caea5a0f6dbc4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BathroomTex:
+        m_Texture: {fileID: 2800000, guid: 03e535ceed2191c44bdecef145e4c4b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: cc65067923c64b44d9207c211cd58cbd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: 1d4c5bf29309a9e4c9ef9aa7a1588e88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FloorTex:
+        m_Texture: {fileID: 2800000, guid: 55d179387e86f5f4db8be4c1eb7280dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LegacyTex:
+        m_Texture: {fileID: 2800000, guid: cb9f4a95bc5dc9e478fe5ffc4683b80c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cb9f4a95bc5dc9e478fe5ffc4683b80c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 1433bf8d312bf2645b5e70bf4cf0605d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WallTex:
+        m_Texture: {fileID: 2800000, guid: 9de2854f5de58ad4f82e432a2b1c63e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BathroomEdge: 8
+    - _BathroomTiling: 0.22
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FloorBlendEnd: 0.82
+    - _FloorBlendStart: 0.55
+    - _FloorTiling: 0.25
+    - _GlossMapScale: 1
+    - _Glossiness: 0.35
+    - _GlossyReflections: 1
+    - _Metallic: 1
+    - _Mode: 0
+    - _Occlusion: 0.95
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Smoothness: 0.17
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _WallMaskMax: 0.05
+    - _WallMaskMin: 0.012
+    - _WallSaturationEnd: 0.34
+    - _WallSaturationStart: 0.14
+    - _WallTiling: 0.34
+    - _ZWrite: 1
+    m_Colors:
+    - _BathroomBoundsX: {r: 160, g: 760, b: 0, a: 0}
+    - _BathroomBoundsZ: {r: -580, g: 25, b: 0, a: 0}
+    - _BathroomTint: {r: 0.72, g: 0.76, b: 0.78, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FloorTint: {r: 0.76, g: 0.72, b: 0.68, a: 1}
+    - _LegacyTint: {r: 0.82, g: 0.82, b: 0.82, a: 1}
+    - _WallTint: {r: 0.78, g: 0.78, b: 0.76, a: 1}
+    - _WindowTint: {r: 0.12, g: 0.24, b: 0.3, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

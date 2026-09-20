@@ -1,0 +1,14 @@
+{
+    "name": "YesterdayMap.BranchOne",
+    "rootNamespace": "YesterdayMap.BranchOne",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

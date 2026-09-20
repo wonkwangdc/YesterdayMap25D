@@ -1,0 +1,19 @@
+{
+    "name": "YesterdayMap.BranchOne.Sandbox.Editor",
+    "rootNamespace": "YesterdayMap.BranchOne.Sandbox.Editor",
+    "references": [
+        "YesterdayMap.BranchOne.Sandbox",
+        "Unity.ugui"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
